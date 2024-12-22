@@ -46,23 +46,4 @@
   </p>
 </div>
 
-<!-- GSAP Animation Script -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
-<script>
-  // GSAP animation for the name
-  gsap.from("#name", {
-    duration: 2,
-    opacity: 0,
-    scale: 0.5,
-    ease: "bounce.out"
-  });
 
-  // Animate GIFs
-  gsap.from("img", {
-    duration: 1.5,
-    opacity: 0,
-    y: 50,
-    stagger: 0.2,
-    ease: "power3.out"
-  });
-</script>
