@@ -2,7 +2,7 @@
 <div align="center">
 
   <h1 style="font-size: 3rem; color: #4caf50; font-family: 'Poppins', sans-serif;">
-    Hey there, I'm <span id="name">[Your Name]</span> 👋
+    Hey there, I'm <span id="name">Sheharyar Zahid</span> 👋
   </h1>
 
   <p style="font-size: 1.5rem; color: #9c27b0; font-family: 'Poppins', sans-serif;">
