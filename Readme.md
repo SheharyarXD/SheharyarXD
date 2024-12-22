@@ -41,8 +41,8 @@
 
   <h3>📬 Get in Touch</h3>
   <p>
-    <b>Email:</b> <a href="mailto:your.email@example.com" style="color: #2196f3;">your.email@example.com</a><br>
-    <b>Portfolio:</b> <a href="https://your-portfolio.com" style="color: #2196f3;">your-portfolio.com</a>
+    <b>Email:</b> <a href="mailto:your.email@example.com" style="color: #2196f3;">sheharyarxd@gmail.com</a><br>
+    <b>Portfolio:</b> <a href="https://your-portfolio.com" style="color: #2196f3;">https://sheharyarz.netlify.app/</a>
   </p>
 </div>
 
