@@ -1,49 +1,69 @@
+<div align="center">
+
+<h1 align="center" style="font-family: Poppins; font-size: 3rem; background: linear-gradient(135deg, #6dd5fa, #2980b9); -webkit-background-clip: text; color: transparent;">
+  Hey there, I'm <span id="name">Sheharyar Zahid</span> 👋
+</h1>
+
+<p align="center" style="font-family: Poppins; font-size: 1.2rem; color: #00c9ff;">
+🚀 Developer • 💡 Innovator • 🎨 Creator
+</p>
+
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150px" height="150px" alt="Coding">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150px" height="150px" alt="Innovation">
+<img src="https://media.giphy.com/media/l3vR2dZSvG8Ncyl4c/giphy.gif" width="150px" height="150px" alt="Creativity">
+
+</div>
+
+---
 
 <div align="center">
 
-  <h1 style="font-size: 3rem; color: #4caf50; font-family: 'Poppins', sans-serif;">
-    Hey there, I'm <span id="name">Sheharyar Zahid</span> 👋
-  </h1>
-
-  <p style="font-size: 1.5rem; color: #9c27b0; font-family: 'Poppins', sans-serif;">
-    🚀 Developer | 💡 Innovator | 🎨 Creator
-  </p>
-
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" height="120" alt="Coding">
-    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" height="120" alt="Innovation">
-    <img src="https://media.giphy.com/media/l3vR2dZSvG8Ncyl4c/giphy.gif" width="120" height="120" alt="Creativity">
-  </div>
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=61dafb">
+<img src="https://img.shields.io/badge/Framework-React-informational?style=for-the-badge&logo=react&color=61dafb">
+<img src="https://img.shields.io/badge/Backend-.NET_Core-informational?style=for-the-badge&logo=.net&color=purple">
+<img src="https://img.shields.io/badge/DevOps-Docker-informational?style=for-the-badge&logo=docker&color=blue">
 
 </div>
 
-<hr style="border: 1px solid #e91e63; margin: 20px 0;">
+---
 
-<div align="center" style="font-family: 'Poppins', sans-serif;">
-  <h2>About Me</h2>
-  <p>
-    I'm a full-stack developer passionate about solving real-world problems using modern technology.
-    My expertise lies in building scalable web applications with an eye for design and efficiency.
-  </p>
+## 🧊 About Me
 
-  <h3>🔧 Technologies & Tools</h3>
-  <p>
-    <b>Languages:</b> JavaScript, Python, C#, C++ <br>
-    <b>Frameworks:</b> MERN, ASP.NET Core, Odoo <br>
-    <b>Tools:</b> Git, Docker, VS Code
-  </p>
+✨ I’m a **Full-Stack Developer** driven by solving real-world problems with modern technology.  
+🔭 Currently working on scalable web applications & efficient backend solutions.  
+🎨 I love designing clean, intuitive, and user-centric experiences.
 
-  <h3>🌟 Featured Projects</h3>
-  <ul style="list-style: none; padding: 0;">
-    <li><a href="https://github.com/username/project1" style="color: #4caf50;">✨ My E-commerce Store</a></li>
-    <li><a href="https://github.com/username/project2" style="color: #4caf50;">💼 Odoo Customization Module</a></li>
-  </ul>
+---
 
-  <h3>📬 Get in Touch</h3>
-  <p>
-    <b>Email:</b> <a href="mailto:your.email@example.com" style="color: #2196f3;">sheharyarxd@gmail.com</a><br>
-    <b>Portfolio:</b> <a href="https://your-portfolio.com" style="color: #2196f3;">https://sheharyarz.netlify.app/</a>
-  </p>
+## 🛠️ Tech Stack
+
+**Languages:**  
+`JavaScript` • `Python` • `C#` • `C++`
+
+**Frameworks:**  
+`MERN Stack` • `ASP.NET Core` • `Odoo`
+
+**Tools & Platforms:**  
+`Git` • `Docker` • `VS Code` • `Azure`
+
+---
+
+## 🚀 Featured Projects
+
+- [✨ My E-commerce Store](https://github.com/username/project1)  
+- [💼 Odoo Customization Module](https://github.com/username/project2)  
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** [sheharyarxd@gmail.com](mailto:sheharyarxd@gmail.com)
+- **Portfolio:** [sheharyarz.netlify.app](https://sheharyarz.netlify.app)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:4facfe,100:00f2fe&height=150&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=20" />
+
 </div>
-
-
