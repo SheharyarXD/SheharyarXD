@@ -1,6 +1,6 @@
 <!-- Sexy & Animated GitHub README for Sheharyar Zahid -->
 
-<div align="center">
+<div align="center"> 
 
 <!-- Animated Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sheharyar+Zahid+👋;🚀+Full-Stack+Developer;💡+Innovator+%7C+🎨+Creator;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
