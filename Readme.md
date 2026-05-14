@@ -1,85 +1,97 @@
-<!-- Sexy & Animated GitHub README for Sheharyar Zahid -->
+<div align="center">
 
-<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=SHEHARYAR%20ZAHID&fontSize=50&fontAlignY=50&desc=SYSTEMS%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20INTERACTIVE%20UI&descAlignY=80&descSize=16&color=58A6FF&fontColor=C9D1D9" alt="Header" />
 
-<!-- Animated Typing Intro -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Sheharyar+Zahid+👋;🚀+Full-Stack+Developer;💡+Innovator+%7C+🎨+Creator;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+<a href="https://sheharyarz.netlify.app">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+scalable+SaaS+architectures;Crafting+cinematic+user+experiences;Automating+complex+workflows+with+AI;Engineering+multiplayer+distributed+systems" alt="Typing SVG" />
+</a>
 
-<!-- Hero GIFs -->
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200px" />
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px" />
-<img src="https://media.giphy.com/media/l3vR2dZSvG8Ncyl4c/giphy.gif" width="200px" />
+<br>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=11,58A6FF,58A6FF,11" width="100%"/>
 
-## 🧊 About Me  
+<br>
 
-✨ A **Full-Stack Developer** passionate about building scalable applications.  
-🔭 Currently crafting **efficient backends & sleek UIs**.  
-🎨 Lover of **clean design** and **intuitive experiences**.  
-⚡ Fun Fact: I debug faster with coffee ☕.  
+### ▌ 01. ENGINEERING IDENTITY
 
----
+Focusing on high-performance system architecture and seamless human-computer interaction. Specializing in bridging the gap between complex backend infrastructures and cinematic, interactive frontends. Experienced in building robust SaaS platforms, scalable AI automations, and optimized SEO systems for enterprise and modern web.
 
-## 🛠️ Tech Stack  
+<br>
+
+### ▌ 02. TECHNOLOGY STACK
+
+<div align="center">
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,cs,dotnet,python,nodejs,express,mongodb,odoo&theme=dark&perline=9" alt="Core Technologies" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=threejs,js,ts,tailwind,docker,azure,git,linux,vercel&theme=dark&perline=9" alt="Supporting Tools" />
+  </a>
+  <br>
+</div>
+
+<br>
+
+### ▌ 03. LIVE TELEMETRY
 
 <div align="center">
 
-### 🚀 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)  
-![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c-sharp)  
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=cplusplus)  
+<img src="https://github-readme-stats.vercel.app/api?username=sheharyarxd&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharyarxd&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&background=0D1117" width="48%" />
 
-### 🎯 Frameworks  
-![MERN](https://img.shields.io/badge/-MERN-000?style=for-the-badge&logo=mongodb)  
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-000?style=for-the-badge&logo=dotnet)  
-![Odoo](https://img.shields.io/badge/-Odoo-000?style=for-the-badge&logo=odoo)  
+<br>
 
-### 🛡️ Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)  
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)  
-![Azure](https://img.shields.io/badge/-Azure-000?style=for-the-badge&logo=microsoft-azure)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyarxd&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheharyarxd&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects  
+### ▌ 04. REPOSITORY ACTIVITY
 
-- [✨ My E-commerce Store](https://github.com/username/project1)  
-- [💼 Odoo Customization Module](https://github.com/username/project2)  
-- [⚡ Portfolio Website](https://sheharyarz.netlify.app)  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheharyarxd&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
+</div>
 
----
+<br>
 
-## 📊 GitHub Stats  
+### ▌ 05. FEATURED ARCHITECTURE
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheharyarxd&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyarxd&layout=compact&theme=radical&hide_border=true)  
+<a href="https://github.com/sheharyarxd/ai-automation-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=ai-automation-engine&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+</a>
+<a href="https://github.com/sheharyarxd/nextjs-multiplayer-core">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=nextjs-multiplayer-core&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+</a>
 
-</div>
+<br>
 
----
+<a href="https://github.com/sheharyarxd/odoo-enterprise-systems">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=odoo-enterprise-systems&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+</a>
+<a href="https://github.com/sheharyarxd/threejs-cinematic-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=threejs-cinematic-ui&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+</a>
 
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="mailto:sheharyarxd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://sheharyarz.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"></a>
+<p align="right">
+  <i>*Ensure repository names match your actual GitHub repos for dynamic rendering.</i>
 </p>
 
----
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=11,58A6FF,58A6FF,11" width="100%"/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=30&fontColor=ffffff" />
-
+  <br>
+  <p><samp>SYSTEM.STATUS [ ONLINE ] // <a href="mailto:sheharyarxd@gmail.com" style="color:#58A6FF;text-decoration:none;">INITIATE_CONTACT</a> // <a href="https://sheharyarz.netlify.app" style="color:#58A6FF;text-decoration:none;">VIEW_TERMINAL</a></samp></p>
+  <br>
 </div>
