@@ -13,7 +13,7 @@
       .glow-cyan { filter: drop-shadow(0 0 8px rgba(0, 240, 255, 0.5)); }
     </style>
 
-    <radialGradient id="center-3d-glow" cx="50%" cy="50%" r="50%">
+    <radialGradient id="center-radar-glow" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.18" />
       <stop offset="60%" stop-color="#00F0FF" stop-opacity="0.05" />
       <stop offset="100%" stop-color="#05070A" stop-opacity="0" />
@@ -27,7 +27,7 @@
   <!-- Background Base -->
   <rect width="100%" height="100%" fill="#05070A" />
   <rect width="100%" height="100%" fill="url(#grid-p4)" />
-  <circle cx="600" cy="180" r="280" fill="url(#center-3d-glow)" />
+  <circle cx="600" cy="180" r="280" fill="url(#center-radar-glow)" />
 
   <!-- Outer Structural Chassis -->
   <rect x="20" y="10" width="1160" height="340" rx="8" fill="#0A0E15" fill-opacity="0.85" stroke="#233554" stroke-width="1" />
@@ -40,18 +40,18 @@
 
   <!-- ==================== TOP BANNER / HEADER ==================== -->
   <g transform="translate(50, 42)">
-    <text x="0" y="0" class="mono-blue glow-blue">SYS.ARCH // 04</text>
+    <text x="0" y="0" class="mono-blue glow-blue">SYS.PRJ // 04</text>
     <text x="125" y="0" class="mono-dim">|</text>
-    <text x="145" y="0" class="mono-cyan">FLAGSHIP INTERACTIVE WEBGL ENVIRONMENT</text>
+    <text x="145" y="0" class="mono-cyan">FLAGSHIP INTERACTIVE WEB EXPERIENCE &amp; REAL-TIME ENGINE</text>
     
     <rect x="1000" y="-12" width="100" height="20" rx="3" fill="#111A29" stroke="#00F0FF" stroke-width="1" />
     <text x="1050" y="1" class="badge-text" fill="#00F0FF" text-anchor="middle">OPTIMIZED</text>
     <line x1="0" y1="12" x2="1100" y2="12" stroke="#1F2937" stroke-width="1" />
   </g>
 
-  <!-- ==================== CENTER 3D HOLOGRAPHIC SCHEMATIC ==================== -->
+  <!-- ==================== CENTER 3D TACTICAL RADAR SCHEMATIC ==================== -->
   <g transform="translate(600, 180)">
-    <!-- Rotating Orbital Rings -->
+    <!-- Rotating Tactical Radar Rings -->
     <circle cx="0" cy="0" r="95" fill="none" stroke="#233554" stroke-width="1" stroke-dasharray="8, 12" />
     <circle cx="0" cy="0" r="80" fill="none" stroke="#58A6FF" stroke-width="1.5" stroke-dasharray="140, 360" class="glow-blue">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite" />
@@ -60,23 +60,23 @@
       <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite" />
     </circle>
 
-    <!-- 3D Wireframe Icosahedron Projection -->
+    <!-- Tactical Crosshair Projection -->
     <polygon points="0,-42 36,-18 36,24 0,42 -36,24 -36,-18" fill="none" stroke="#58A6FF" stroke-width="1.2" stroke-opacity="0.8" />
     <polygon points="0,-42 0,42" stroke="#00F0FF" stroke-width="1" stroke-dasharray="3, 3" />
     <polygon points="-36,-18 36,24" stroke="#58A6FF" stroke-width="1" stroke-opacity="0.5" />
     <polygon points="-36,24 36,-18" stroke="#58A6FF" stroke-width="1" stroke-opacity="0.5" />
     <circle cx="0" cy="0" r="6" fill="#00F0FF" class="glow-cyan" />
 
-    <!-- Orbital Data Nodes -->
+    <!-- Orbital Tactical Radar Nodes -->
     <g>
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite" />
-      <circle cx="80" cy="0" r="3" fill="#00F0FF" />
-      <circle cx="-80" cy="0" r="3" fill="#58A6FF" />
-      <circle cx="0" cy="80" r="3" fill="#FFFFFF" />
-      <circle cx="0" cy="-80" r="3" fill="#58A6FF" />
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite" />
+      <circle cx="80" cy="0" r="3.5" fill="#00F0FF" />
+      <circle cx="-80" cy="0" r="3.5" fill="#58A6FF" />
+      <circle cx="0" cy="80" r="3.5" fill="#FFFFFF" />
+      <circle cx="0" cy="-80" r="3.5" fill="#58A6FF" />
     </g>
 
-    <!-- Spatial Dimension Crosshairs -->
+    <!-- Radar Crosshair Axes -->
     <line x1="-120" y1="0" x2="-100" y2="0" stroke="#1F2937" stroke-width="1" />
     <line x1="100" y1="0" x2="120" y2="0" stroke="#1F2937" stroke-width="1" />
     <line x1="0" y1="-115" x2="0" y2="-95" stroke="#1F2937" stroke-width="1" />
@@ -85,26 +85,26 @@
 
   <!-- Left Text Overview -->
   <g transform="translate(50, 95)">
-    <text x="0" y="24" class="proj-title-lg">threejs-cinematic-ui</text>
-    <text x="0" y="48" class="mono-dim">Hardware-Accelerated 3D Viewport &amp; Cinematic Camera Rig</text>
+    <text x="0" y="24" class="proj-title-lg">CS2-Game-Web</text>
+    <text x="0" y="48" class="mono-dim">Tactical Web Simulation &amp; Real-Time Interactive Canvas</text>
 
-    <text x="0" y="85" class="proj-desc">Interactive WebGL canvas environment combining customized shader</text>
-    <text x="0" y="107" class="proj-desc">geometries, real-time particle dynamos, and responsive mouse-parallax</text>
-    <text x="0" y="129" class="proj-desc">camera physics locked at 60 frames per second.</text>
+    <text x="0" y="85" class="proj-desc">Hardware-accelerated web application integrating tactical HUD rendering,</text>
+    <text x="0" y="107" class="proj-desc">low-latency client state synchronization, and dynamic game simulations</text>
+    <text x="0" y="129" class="proj-desc">engineered with TypeScript and responsive frame-budget management.</text>
 
     <!-- Tech Badges -->
     <g transform="translate(0, 155)">
-      <rect x="0" y="0" width="85" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
-      <text x="42" y="16" class="badge-text" text-anchor="middle">Three.js</text>
+      <rect x="0" y="0" width="95" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
+      <text x="47" y="16" class="badge-text" text-anchor="middle">TypeScript</text>
 
-      <rect x="95" y="0" width="105" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
-      <text x="147" y="16" class="badge-text" text-anchor="middle">WebGL / GLSL</text>
+      <rect x="105" y="0" width="115" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
+      <text x="162" y="16" class="badge-text" text-anchor="middle">Canvas &amp; WebGL</text>
 
-      <rect x="210" y="0" width="100" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
-      <text x="260" y="16" class="badge-text" text-anchor="middle">Camera Rig</text>
+      <rect x="230" y="0" width="115" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
+      <text x="287" y="16" class="badge-text" text-anchor="middle">Real-Time Sync</text>
 
-      <rect x="320" y="0" width="90" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
-      <text x="365" y="16" class="badge-text" text-anchor="middle">60 FPS Core</text>
+      <rect x="355" y="0" width="90" height="24" rx="4" fill="#0E1624" stroke="#233554" stroke-width="1" />
+      <text x="400" y="16" class="badge-text" text-anchor="middle">60 FPS Core</text>
     </g>
   </g>
 
@@ -112,26 +112,25 @@
   <g transform="translate(820, 100)">
     <!-- Right HUD Box -->
     <rect x="0" y="0" width="330" height="135" rx="6" fill="#0C121B" stroke="#1F2937" stroke-width="1" />
-    <text x="16" y="24" class="mono-dim">VIEWPORT_METRICS // RENDERER</text>
+    <text x="16" y="24" class="mono-dim">SIMULATION_METRICS // CORE</text>
     <circle cx="310" cy="20" r="3" fill="#00F0FF" />
 
     <g transform="translate(16, 48)">
       <text x="0" y="0" class="mono-dim">FRAME_RATE: <tspan fill="#00F0FF">60.0 FPS (LOCKED)</tspan></text>
-      <text x="0" y="22" class="mono-dim">DRAW_CALLS: <tspan fill="#58A6FF">1 SINGLE_PASS</tspan></text>
-      <text x="0" y="44" class="mono-dim">BUFFER_GEOM: <tspan fill="#FFFFFF">700 POINT NODES</tspan></text>
-      <text x="0" y="66" class="mono-dim">SHADERS: <tspan fill="#58A6FF">EXP2 FOG &amp; WIREFRAME</tspan></text>
+      <text x="0" y="22" class="mono-dim">INPUT_LATENCY: <tspan fill="#58A6FF">&lt; 8ms BUFFER</tspan></text>
+      <text x="0" y="44" class="mono-dim">STATE_DISPATCH: <tspan fill="#FFFFFF">CONCURRENT</tspan></text>
+      <text x="0" y="66" class="mono-dim">RENDER_TARGET: <tspan fill="#58A6FF">HARDWARE ACCEL</tspan></text>
     </g>
 
     <!-- Direct CTA -->
     <g transform="translate(0, 150)">
       <rect x="0" y="0" width="330" height="34" rx="4" fill="#111B2B" stroke="#00F0FF" stroke-width="1" />
-      <text x="165" y="22" class="cta-text" text-anchor="middle">ACCESS_REPOSITORY: threejs-cinematic-ui ↗</text>
+      <text x="165" y="22" class="cta-text" text-anchor="middle">ACCESS_REPOSITORY: CS2-Game-Web ↗</text>
     </g>
   </g>
 
   <!-- Bottom Readout -->
   <rect x="21" y="325" width="1158" height="24" rx="0" fill="#080B10" />
-  <text x="50" y="340" class="mono-dim">ENGINE: THREE.JS r160 // HARDWARE ACCELERATED</text>
-  <text x="1150" y="340" class="mono-cyan" text-anchor="end">VIEWPORT: READY FOR PRODUCTION</text>
+  <text x="50" y="340" class="mono-dim">ENGINE: INTERACTIVE TACTICAL CANVAS // TYPESCRIPT CORE</text>
+  <text x="1150" y="340" class="mono-cyan" text-anchor="end">STATUS: DEPLOYED // READY</text>
 </svg>
-

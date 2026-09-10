@@ -47,9 +47,8 @@
   <!-- Telemetry Row -->
   <g transform="translate(50, 78)">
     <text x="0" y="0" class="mono-dim">SHOWCASE_COUNT: <tspan fill="#58A6FF">04 REPOSITORIES</tspan></text>
-    <text x="300" y="0" class="mono-dim">CLASSIFICATION: <tspan fill="#FFFFFF">AI / MULTIPLAYER / ERP / WEBGL</tspan></text>
-    <text x="740" y="0" class="mono-dim">VERIFICATION: <tspan fill="#00F0FF">CI/CD PASSING</tspan></text>
+    <text x="260" y="0" class="mono-dim">CLASSIFICATION: <tspan fill="#FFFFFF">AI SAAS / ENTERPRISE / CV / INTERACTIVE</tspan></text>
+    <text x="770" y="0" class="mono-dim">VERIFICATION: <tspan fill="#00F0FF">CI/CD PASSING</tspan></text>
     <text x="1020" y="0" class="mono-dim">BUILD: <tspan fill="#58A6FF">PRODUCTION</tspan></text>
   </g>
 </svg>
-

@@ -40,10 +40,10 @@
 
 <div align="center">
   <a href="https://github.com/SheharyarXD" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=SheharyarXD&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="49.2%" alt="SheharyarXD GitHub Metrics" />
+    <img src="./assets/telemetry-stats.svg" width="49.2%" alt="SheharyarXD GitHub Metrics" />
   </a>
   <a href="https://github.com/SheharyarXD" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheharyarXD&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="49.2%" alt="SheharyarXD Language Distribution" />
+    <img src="./assets/telemetry-langs.svg" width="49.2%" alt="SheharyarXD Language Distribution" />
   </a>
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
   <a href="https://github.com/SheharyarXD" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SheharyarXD&theme=transparent&hide_border=true&color=58A6FF&line=58A6FF&point=00F0FF&area=true&area_color=58A6FF&bg_color=0D1117" width="100%" alt="SheharyarXD Contribution Network Graph" />
+    <img src="./assets/telemetry-activity.svg" width="100%" alt="SheharyarXD Contribution Network Graph" />
   </a>
 </div>
 
@@ -81,37 +81,37 @@
 
 <br />
 
-<!-- 01: AI AUTOMATION ENGINE -->
+<!-- 01: LEAD-FLOW-AI (AI SAAS) -->
 <div align="center">
-  <a href="https://github.com/SheharyarXD/ai-automation-engine" target="_blank">
-    <img src="./assets/project-01-ai-engine.svg" width="100%" alt="SYS.ARCH // 01: ai-automation-engine" />
+  <a href="https://github.com/SheharyarXD/Lead-Flow-AI" target="_blank">
+    <img src="./assets/project-01-lead-flow.svg" width="100%" alt="SYS.PRJ // 01: Lead-Flow-AI" />
   </a>
 </div>
 
 <br />
 
-<!-- 02: NEXTJS MULTIPLAYER CORE -->
+<!-- 02: COLL-PRO (ENTERPRISE WORKFLOW SAAS) -->
 <div align="center">
-  <a href="https://github.com/SheharyarXD/nextjs-multiplayer-core" target="_blank">
-    <img src="./assets/project-02-multiplayer-core.svg" width="100%" alt="SYS.ARCH // 02: nextjs-multiplayer-core" />
+  <a href="https://github.com/SheharyarXD/Coll-Pro" target="_blank">
+    <img src="./assets/project-02-coll-pro.svg" width="100%" alt="SYS.PRJ // 02: Coll-Pro" />
   </a>
 </div>
 
 <br />
 
-<!-- 03: ODOO ENTERPRISE SYSTEMS -->
+<!-- 03: WEAPON-DETECTOR (COMPUTER VISION & DEEP LEARNING) -->
 <div align="center">
-  <a href="https://github.com/SheharyarXD/odoo-enterprise-systems" target="_blank">
-    <img src="./assets/project-03-odoo-systems.svg" width="100%" alt="SYS.ARCH // 03: odoo-enterprise-systems" />
+  <a href="https://github.com/SheharyarXD/Weapon-Detector" target="_blank">
+    <img src="./assets/project-03-weapon-detector.svg" width="100%" alt="SYS.PRJ // 03: Weapon-Detector" />
   </a>
 </div>
 
 <br />
 
-<!-- 04: THREEJS CINEMATIC UI (FLAGSHIP CENTERED) -->
+<!-- 04: CS2-GAME-WEB (FLAGSHIP INTERACTIVE WEB EXPERIENCE) -->
 <div align="center">
-  <a href="https://github.com/SheharyarXD/threejs-cinematic-ui" target="_blank">
-    <img src="./assets/project-04-threejs-cinematic.svg" width="100%" alt="SYS.ARCH // 04: threejs-cinematic-ui" />
+  <a href="https://github.com/SheharyarXD/CS2-Game-Web" target="_blank">
+    <img src="./assets/project-04-cs2-game-web.svg" width="100%" alt="SYS.PRJ // 04: CS2-Game-Web" />
   </a>
 </div>
 
