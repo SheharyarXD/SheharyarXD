@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&amp;family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
+      .mono-dim { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #8B949E; letter-spacing: 1px; }
+      .mono-blue { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #58A6FF; letter-spacing: 2px; }
+      .mono-cyan { font-family: 'JetBrains Mono', monospace; font-size: 11px; fill: #00F0FF; letter-spacing: 1px; }
+      .term-cmd { font-family: 'JetBrains Mono', monospace; font-size: 13px; fill: #58A6FF; font-weight: 500; }
+      .term-out { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #C9D1D9; }
+      .term-green { font-family: 'JetBrains Mono', monospace; font-size: 12px; fill: #00F0FF; font-weight: 700; }
+      .glow-blue { filter: drop-shadow(0 0 8px rgba(88, 166, 255, 0.5)); }
+      .glow-cyan { filter: drop-shadow(0 0 6px rgba(0, 240, 255, 0.5)); }
+    </style>
+
+    <linearGradient id="term-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#233554" stop-opacity="0.1" />
+    </linearGradient>
+
+    <pattern id="grid-pattern-term" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1F2937" stroke-width="0.5" stroke-opacity="0.3" />
+    </pattern>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="100%" height="100%" fill="#05070A" />
+  <rect width="100%" height="100%" fill="url(#grid-pattern-term)" />
+
+  <!-- Outer Frame -->
+  <rect x="20" y="10" width="1160" height="260" rx="8" fill="#0A0E15" fill-opacity="0.85" stroke="#233554" stroke-width="1" />
+
+  <!-- Corner Brackets -->
+  <path d="M 20 26 L 20 10 L 36 10" stroke="#58A6FF" stroke-width="2" fill="none" />
+  <path d="M 1180 26 L 1180 10 L 1164 10" stroke="#58A6FF" stroke-width="2" fill="none" />
+  <path d="M 20 254 L 20 270 L 36 270" stroke="#58A6FF" stroke-width="2" fill="none" />
+  <path d="M 1180 254 L 1180 270 L 1164 270" stroke="#58A6FF" stroke-width="2" fill="none" />
+
+  <!-- Header Content -->
+  <g transform="translate(50, 38)">
+    <text x="0" y="0" class="mono-blue glow-blue">06 // COMMS &amp; SECURE PROTOCOL</text>
+    <text x="250" y="0" class="mono-dim">// DIRECT DISPATCH &amp; REPOSITORY ACCESS</text>
+    <circle cx="1060" cy="-4" r="3.5" fill="#00F0FF" class="glow-cyan">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="1075" y="0" class="mono-cyan">LISTENING</text>
+    <line x1="0" y1="12" x2="1100" y2="12" stroke="url(#term-line)" stroke-width="1" />
+  </g>
+
+  <!-- Terminal Window Inner Frame -->
+  <g transform="translate(50, 65)">
+    <rect x="0" y="0" width="1100" height="155" rx="6" fill="#080C12" stroke="#1F2937" stroke-width="1" />
+    
+    <!-- Window Top Titlebar -->
+    <rect x="0" y="0" width="1100" height="28" rx="6" fill="#101724" />
+    <circle cx="18" cy="14" r="4" fill="#FF5F56" />
+    <circle cx="34" cy="14" r="4" fill="#FFBD2E" />
+    <circle cx="50" cy="14" r="4" fill="#27C93F" />
+    <text x="550" y="18" class="mono-dim" text-anchor="middle">terminal // sheharyar@core-node:~ (zsh)</text>
+
+    <!-- Terminal Prompt & Lines -->
+    <g transform="translate(24, 52)">
+      <text x="0" y="0" class="term-cmd">
+        <tspan fill="#00F0FF">sheharyar@core</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan> ./dispatch --channel=direct --protocol=tls1.3
+      </text>
+
+      <text x="0" y="24" class="term-out">> ESTABLISHING SECURE HANDSHAKE ............................. </text>
+      <text x="460" y="24" class="term-green">[ VERIFIED ]</text>
+
+      <text x="0" y="44" class="term-out">> ENCRYPTION TUNNEL ACTIVE ................................... </text>
+      <text x="460" y="44" class="term-green">[ 256-BIT GCM ]</text>
+
+      <text x="0" y="68" class="term-cmd">
+        <tspan fill="#00F0FF">sheharyar@core</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#8B949E">$</tspan> status --ready
+      </text>
+
+      <text x="210" y="68" class="mono-dim">> READY FOR DISPATCH</text>
+      
+      <!-- Blinking Cursor -->
+      <rect x="365" y="55" width="8" height="15" fill="#58A6FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <!-- Bottom Readout -->
+  <g transform="translate(50, 250)">
+    <text x="0" y="0" class="mono-dim">SYSTEM_STATE: <tspan fill="#00F0FF">ONLINE</tspan></text>
+    <text x="280" y="0" class="mono-dim">ENCRYPTION: <tspan fill="#58A6FF">STRICT_FORWARD_SECRECY</tspan></text>
+    <text x="640" y="0" class="mono-dim">TELEMETRY_CORE: <tspan fill="#FFFFFF">ACTIVE // ARCHITECT: S. ZAHID</tspan></text>
+    <text x="1100" y="0" class="mono-cyan" text-anchor="end">SESSION_ACTIVE</text>
+  </g>
+</svg>
+
