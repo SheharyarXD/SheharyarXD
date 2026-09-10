@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SYSTEM.CORE // Sheharyar Zahid</title>
+  <style>
+    body { margin: 0; overflow: hidden; background-color: #05070A; color: #58A6FF; font-family: monospace; }
+    #canvas-container { position: absolute; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 1; }
+    .overlay { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; text-align: center; pointer-events: none; }
+    h1 { font-family: 'Space Grotesk', sans-serif; font-size: 3rem; color: #fff; letter-spacing: 0.5rem; margin: 0; text-shadow: 0 0 20px rgba(88, 166, 255, 0.5); }
+    p { font-size: 1.2rem; letter-spacing: 0.2rem; }
+    .hud { position: absolute; padding: 20px; z-index: 2; opacity: 0.7; font-size: 0.8rem; }
+    .hud.tl { top: 0; left: 0; }
+    .hud.br { bottom: 0; right: 0; text-align: right; }
+  </style>
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+      }
+    }
+  </script>
+</head>
+<body>
+  <div class="hud tl">SYS.CORE.ACTIVE<br/>> ESTABLISHING CONNECTION...</div>
+  <div class="hud br">ARCHITECT: S.ZAHID<br/>AWAITING COMMAND_</div>
+  
+  <div class="overlay">
+    <h1>SHEHARYAR ZAHID</h1>
+    <p>SYSTEMS ARCHITECT // AI ENGINEER</p>
+  </div>
+  
+  <div id="canvas-container"></div>
+  <script type="module" src="./main.js"></script>
+</body>
+</html>

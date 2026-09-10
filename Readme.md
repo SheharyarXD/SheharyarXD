@@ -1,97 +1,64 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=SHEHARYAR%20ZAHID&fontSize=50&fontAlignY=50&desc=SYSTEMS%20ARCHITECT%20%7C%20AI%20ENGINEER%20%7C%20INTERACTIVE%20UI&descAlignY=80&descSize=16&color=58A6FF&fontColor=C9D1D9" alt="Header" />
-
-<a href="https://sheharyarz.netlify.app">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+scalable+SaaS+architectures;Crafting+cinematic+user+experiences;Automating+complex+workflows+with+AI;Engineering+multiplayer+distributed+systems" alt="Typing SVG" />
-</a>
-
-<br>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=11,58A6FF,58A6FF,11" width="100%"/>
-
-<br>
-
-### ▌ 01. ENGINEERING IDENTITY
-
-Focusing on high-performance system architecture and seamless human-computer interaction. Specializing in bridging the gap between complex backend infrastructures and cinematic, interactive frontends. Experienced in building robust SaaS platforms, scalable AI automations, and optimized SEO systems for enterprise and modern web.
-
-<br>
-
-### ▌ 02. TECHNOLOGY STACK
-
-<div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,cs,dotnet,python,nodejs,express,mongodb,odoo&theme=dark&perline=9" alt="Core Technologies" />
+  <a href="https://your-username.github.io/interactive-core" target="_blank">
+    <img src="./assets/hero-terminal.svg" width="100%" alt="System Core Terminal // Sheharyar Zahid">
   </a>
-  <br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,js,ts,tailwind,docker,azure,git,linux,vercel&theme=dark&perline=9" alt="Supporting Tools" />
-  </a>
-  <br>
 </div>
 
-<br>
-
-### ▌ 03. LIVE TELEMETRY
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sheharyarxd&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sheharyarxd&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&background=0D1117" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheharyarxd&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheharyarxd&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
-
+  <sub><b>SYSTEM.STATUS</b> [ <span style="color:#58A6FF">ONLINE</span> ] ⎔ <b>CORE</b> [ <span style="color:#58A6FF">ACTIVE</span> ] ⎔ <b>AI PIPELINE</b> [ <span style="color:#58A6FF">RUNNING</span> ]</sub>
 </div>
 
-<br>
+<br />
 
-### ▌ 04. REPOSITORY ACTIVITY
+### ┌── 01 // ENGINEERING.IDENTITY ─────────────────────────────────┐
+
+**SYSTEM ARCHITECTURE ⎔ AI AUTOMATION ⎔ DISTRIBUTED SYSTEMS**
+
+I architect high-performance, futuristic digital infrastructure. Operating at the intersection of AI engineering, scalable backend systems, and interactive WebGL user interfaces. My focus is on transforming complex technical requirements into elegant, distributed, and deeply optimized software ecosystems. 
+
+### ┌── 02 // TECHNOLOGY.MATRIX ────────────────────────────────────┐
+
+**[ FRONTEND.MODULES ]**
+`Next.js` `React` `Three.js` `WebGL` `TypeScript` `TailwindCSS`
+
+**[ BACKEND.SERVICES ]**
+`C#` `.NET` `Node.js` `Express` `Python` `REST/GraphQL`
+
+**[ INFRASTRUCTURE.DATA ]**
+`MongoDB` `Docker` `Azure` `Linux` `Git` `Vercel`
+
+**[ BUSINESS.SYSTEMS ]**
+`Odoo Enterprise` `ERP Architecture`
+
+### ┌── 03 // LIVE.TELEMETRY ───────────────────────────────────────┐
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheharyarxd&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" width="48%" />
 </div>
 
-<br>
+### ┌── 04 // REPOSITORY.ACTIVITY ──────────────────────────────────┐
 
-### ▌ 05. FEATURED ARCHITECTURE
-
+> **NEURAL ACTIVITY // DEVELOPMENT GRAPH**
 <div align="center">
-
-<a href="https://github.com/sheharyarxd/ai-automation-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=ai-automation-engine&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/sheharyarxd/nextjs-multiplayer-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=nextjs-multiplayer-core&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-</a>
-
-<br>
-
-<a href="https://github.com/sheharyarxd/odoo-enterprise-systems">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=odoo-enterprise-systems&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-</a>
-<a href="https://github.com/sheharyarxd/threejs-cinematic-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheharyarxd&repo=threejs-cinematic-ui&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" width="48%" />
-</a>
-
-<p align="right">
-  <i>*Ensure repository names match your actual GitHub repos for dynamic rendering.</i>
-</p>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=transparent&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF" width="100%" />
 </div>
 
-<br>
+### ┌── 05 // FEATURED.ARCHITECTURE ────────────────────────────────┐
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=11,58A6FF,58A6FF,11" width="100%"/>
+| SYSTEM.MODULE | DESIGNATION | STATUS |
+| :--- | :--- | :--- |
+| ⎔ **[ai-automation-engine](https://github.com/your-username/ai-automation-engine)** | Artificial Intelligence / Automation Pipeline | `ACTIVE` |
+| ⎔ **[nextjs-multiplayer-core](https://github.com/your-username/nextjs-multiplayer-core)** | Distributed Real-time Systems / WebSocket | `ACTIVE` |
+| ⎔ **[odoo-enterprise-systems](https://github.com/your-username/odoo-enterprise-systems)** | ERP Architecture / Business Logic | `MAINTAINED` |
+| ⎔ **[threejs-cinematic-ui](https://github.com/your-username/threejs-cinematic-ui)** | WebGL Interactive Environments / UX | `OPTIMIZED` |
+
+<br />
 
 <div align="center">
-  <br>
-  <p><samp>SYSTEM.STATUS [ ONLINE ] // <a href="mailto:sheharyarxd@gmail.com" style="color:#58A6FF;text-decoration:none;">INITIATE_CONTACT</a> // <a href="https://sheharyarz.netlify.app" style="color:#58A6FF;text-decoration:none;">VIEW_TERMINAL</a></samp></p>
-  <br>
+  <code><a href="mailto:your-email@example.com">INITIATE_CONTACT</a></code> ⎔ 
+  <code><a href="https://your-portfolio.com">VIEW_FULL_TERMINAL</a></code>
+</div>
+<div align="center">
+  <sub>SESSION.TERMINATED // CONNECTION_SECURE</sub>
 </div>
